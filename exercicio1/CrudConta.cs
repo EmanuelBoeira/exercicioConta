@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System;
 
 namespace exercicio1
 {
@@ -6,12 +7,12 @@ namespace exercicio1
     {
         private List<Conta> contas = new List<Conta>(); 
 
-        public void Adicionar(Conta conta)
+        public static void Adicionar(Conta conta)
         {
             contas.Add(conta);
         }
 
-        public void Excluir(Conta conta)
+        public static void Excluir(Conta conta)
         {
             foreach(var elemento in contas)
             {
@@ -22,7 +23,7 @@ namespace exercicio1
             }
         }
 
-        public Conta ConsultarPorNum(int numero)
+        public static Conta ConsultarPorNum(int numero)
         {
             foreach(Conta elemento in contas)
             {
@@ -40,7 +41,7 @@ namespace exercicio1
             return null;
         }
 
-        public void Editar(Conta conta, int agencia, string correntista, double saldo)
+        public static void Editar(Conta conta, int agencia, string correntista, double saldo)
         {
             foreach(var elemento in contas)
             {
@@ -50,6 +51,15 @@ namespace exercicio1
                     elemento.Correntista = correntista;
                     elemento.Saldo = saldo;
                 }
+            }
+        }
+
+        public static void MostrarContas()
+        {
+            Console.WriteLine("\tAgência|\tNúmero|\tCorrentista|\tSaldo");
+            foreach(Conta conta in contas)
+            {
+                Console.WriteLine($"\t{conta.Agencia}|\t{conta.Numero}|\t{conta.Correntista}|\t{conta.Saldo}");
             }
         }
     }
