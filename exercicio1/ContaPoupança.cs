@@ -9,7 +9,7 @@
 
         public override void Saca(double valor)
         {
-            if(valor > this.saldo)
+            if(valor < this.saldo)
             {
                 this.Saldo -= valor;
             }
