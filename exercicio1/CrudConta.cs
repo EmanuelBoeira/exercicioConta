@@ -5,7 +5,7 @@ namespace exercicio1
 {
     class CrudConta
     {
-        private List<Conta> contas = new List<Conta>(); 
+        private static List<Conta> contas = new List<Conta>(); 
 
         public static void Adicionar(Conta conta)
         {
@@ -14,11 +14,18 @@ namespace exercicio1
 
         public static void Excluir(Conta conta)
         {
-            foreach(var elemento in contas)
+            int numConta = conta.Numero;
+
+            foreach(Conta c in contas)
             {
-                if(elemento == conta)
+                if(c.Numero == numConta)
                 {
-                    contas.Remove(elemento);
+                    contas.Remove(c);
+                    Console.WriteLine("excluido");
+                }
+                else
+                {
+                    Console.WriteLine("valor inválido");
                 }
             }
         }

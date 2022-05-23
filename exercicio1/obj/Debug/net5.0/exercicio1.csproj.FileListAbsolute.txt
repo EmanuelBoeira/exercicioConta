@@ -14,3 +14,19 @@ C:\Users\emanuel.martins1\OneDrive - SENAC-SC\Área de Trabalho\aula back end\cl
 C:\Users\emanuel.martins1\OneDrive - SENAC-SC\Área de Trabalho\aula back end\classes abstratas\exercicio1\exercicio1\obj\Debug\net5.0\ref\exercicio1.dll
 C:\Users\emanuel.martins1\OneDrive - SENAC-SC\Área de Trabalho\aula back end\classes abstratas\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.pdb
 C:\Users\emanuel.martins1\OneDrive - SENAC-SC\Área de Trabalho\aula back end\classes abstratas\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.genruntimeconfig.cache
+C:\Users\emanuel.martins1\OneDrive - SENAC-SC\Área de Trabalho\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.csproj.AssemblyReference.cache
+C:\Users\emanuel.martins1\OneDrive - SENAC-SC\Área de Trabalho\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanuel.martins1\OneDrive - SENAC-SC\Área de Trabalho\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.AssemblyInfoInputs.cache
+C:\Users\emanuel.martins1\OneDrive - SENAC-SC\Área de Trabalho\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.AssemblyInfo.cs
+C:\Users\emanuel.martins1\OneDrive - SENAC-SC\Área de Trabalho\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\emanuel.martins1\OneDrive - SENAC-SC\Área de Trabalho\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.dll
+C:\Users\emanuel.martins1\OneDrive - SENAC-SC\Área de Trabalho\exercicio1\exercicio1\obj\Debug\net5.0\ref\exercicio1.dll
+C:\Users\emanuel.martins1\OneDrive - SENAC-SC\Área de Trabalho\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.pdb
+C:\Users\emanuel.martins1\OneDrive - SENAC-SC\Área de Trabalho\exercicio1\exercicio1\bin\Debug\net5.0\exercicio1.exe
+C:\Users\emanuel.martins1\OneDrive - SENAC-SC\Área de Trabalho\exercicio1\exercicio1\bin\Debug\net5.0\exercicio1.deps.json
+C:\Users\emanuel.martins1\OneDrive - SENAC-SC\Área de Trabalho\exercicio1\exercicio1\bin\Debug\net5.0\exercicio1.runtimeconfig.json
+C:\Users\emanuel.martins1\OneDrive - SENAC-SC\Área de Trabalho\exercicio1\exercicio1\bin\Debug\net5.0\exercicio1.runtimeconfig.dev.json
+C:\Users\emanuel.martins1\OneDrive - SENAC-SC\Área de Trabalho\exercicio1\exercicio1\bin\Debug\net5.0\exercicio1.dll
+C:\Users\emanuel.martins1\OneDrive - SENAC-SC\Área de Trabalho\exercicio1\exercicio1\bin\Debug\net5.0\ref\exercicio1.dll
+C:\Users\emanuel.martins1\OneDrive - SENAC-SC\Área de Trabalho\exercicio1\exercicio1\bin\Debug\net5.0\exercicio1.pdb
+C:\Users\emanuel.martins1\OneDrive - SENAC-SC\Área de Trabalho\exercicio1\exercicio1\obj\Debug\net5.0\exercicio1.genruntimeconfig.cache

@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "VgCtFYwaSqD9XCACLNz5PEM0kfRVqwXK1MAimTajQRDZ+jZt2FqdtUy70nx/ak4Wft3HPd4KpLvRyf84EkRYhQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\emanuel.martins1\\OneDrive - SENAC-SC\\Área de Trabalho\\exercicio1\\exercicio1\\exercicio1.csproj",
-=======
-  "dgSpecHash": "OUv0g5zSHGaVwXIjuMhwIKC60LfUGJ4ltEYbMILSjH8cSj2uGTZrW43U+Vkp8m+cUaet+Kmbj8pjbEvax7PZIQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\boeir_000\\Desktop\\aula back end\\exercicioConta\\exercicioConta\\exercicio1\\exercicio1.csproj",
->>>>>>> 2cc6e87748edaac5c02414c810f0e451cd509b24
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\emanuel.martins1\\OneDrive - SENAC-SC\\Área de Trabalho\\exercicio1\\exercicio1\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

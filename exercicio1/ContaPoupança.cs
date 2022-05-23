@@ -9,11 +9,11 @@
 
         public override void Saca(double valor)
         {
-<<<<<<< HEAD
-            if(valor < this.saldo)
-=======
+
             if(valor < this.Saldo)
->>>>>>> 2cc6e87748edaac5c02414c810f0e451cd509b24
+
+            if(valor < this.Saldo)
+
             {
                 this.Saldo -= valor;
             }
