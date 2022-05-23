@@ -32,7 +32,7 @@ namespace exercicio1
         //este método usa o método CrudConta.Adicionar da classe CrudConta, para adicionar um novo objeto do tipo Conta no list em CrudConta 
         static void AdicionarConta()
         {
-            Console.WriteLine("Escolha uma das opções:\n 1 - Conta Poupança.\n 2 - Conta Corrente");
+            Console.WriteLine("Escolha uma das opções:\n 1 - Conta Poupança.\n 2 - Conta Corrente\n 3 - Conta Investimento\n");
             string resposta = Console.ReadLine();
 
             switch (resposta[0])
@@ -75,6 +75,26 @@ namespace exercicio1
                         CrudConta.Adicionar(conta);
                         break;
                     }
+                case '3':
+                    {
+                        Console.Write("Qual o número da agencia: ");
+                        int agencia = Int32.Parse(Console.ReadLine());
+
+                        Console.Write("Qual o número da conta: ");
+                        int numConta = Int32.Parse(Console.ReadLine());
+
+                        Console.Write("Qual o correntista: ");
+                        string correntista = Console.ReadLine();
+
+                        Console.Write("Qual o valor: ");
+                        Double valor = Double.Parse(Console.ReadLine());
+
+                        ContaInvestimento conta = new ContaInvestimento(agencia, numConta, correntista, valor);
+
+                        CrudConta.Adicionar(conta);
+                        break;
+                    }
+
                 default : Console.WriteLine("valor inválido"); break;
             }
         }
