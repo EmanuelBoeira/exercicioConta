@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\emanuel.martins1\\.nuget\\packages\\": {}
+    "C:\\Users\\boeir_000\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emanuel.martins1\\OneDrive - SENAC-SC\\Área de Trabalho\\aula back end\\classes abstratas\\exercicio1\\exercicio1\\exercicio1.csproj",
+      "projectUniqueName": "C:\\Users\\boeir_000\\Desktop\\aula back end\\exercicioConta\\exercicioConta\\exercicio1\\exercicio1.csproj",
       "projectName": "exercicio1",
-      "projectPath": "C:\\Users\\emanuel.martins1\\OneDrive - SENAC-SC\\Área de Trabalho\\aula back end\\classes abstratas\\exercicio1\\exercicio1\\exercicio1.csproj",
-      "packagesPath": "C:\\Users\\emanuel.martins1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emanuel.martins1\\OneDrive - SENAC-SC\\Área de Trabalho\\aula back end\\classes abstratas\\exercicio1\\exercicio1\\obj\\",
+      "projectPath": "C:\\Users\\boeir_000\\Desktop\\aula back end\\exercicioConta\\exercicioConta\\exercicio1\\exercicio1.csproj",
+      "packagesPath": "C:\\Users\\boeir_000\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\boeir_000\\Desktop\\aula back end\\exercicioConta\\exercicioConta\\exercicio1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\emanuel.martins1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\boeir_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
